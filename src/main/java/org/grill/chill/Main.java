@@ -5,6 +5,7 @@ import net.dv8tion.jda.api.entities.Activity;
 import org.apache.commons.configuration2.Configuration;
 import org.apache.commons.configuration2.builder.fluent.Configurations;
 import org.apache.commons.configuration2.ex.ConfigurationException;
+import org.grill.chill.Chat.ChatListener;
 
 import javax.security.auth.login.LoginException;
 import java.io.File;
